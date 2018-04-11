@@ -12,5 +12,4 @@ end
 def parrot (default="Squawk!")
   puts default
   return default
- # parrot = default
 end
